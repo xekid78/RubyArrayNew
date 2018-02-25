@@ -1,0 +1,2 @@
+# RubyArrayNew
+Arrayクラスのnewメソッド
